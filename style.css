@@ -22,7 +22,7 @@ body {
 
 }
 
-.bubble{
+.bubble {
     position: absolute;
     bottom: 0;
     width: 50px;
@@ -31,8 +31,8 @@ body {
     background-color: white;
     opacity: 0.5;
     animation: flying 7s infinite ease-in;
-    background: rgb(46,68,126);
-background: radial-gradient(circle, rgba(46,68,126,0) 27%, rgba(236,95,118,0.8589810924369747) 65%);
+
+    background: radial-gradient(circle, rgba(46, 68, 126, 0) 27%, rgba(236, 95, 118, 0.8589810924369747) 65%);
 
 
 }
@@ -40,126 +40,145 @@ background: radial-gradient(circle, rgba(46,68,126,0) 27%, rgba(236,95,118,0.858
 
 
 
-.bubble:nth-child(1){
+.bubble:nth-child(1) {
     width: 70px;
     height: 70px;
     left: 10%;
     animation-duration: 6s;
     animation-delay: 2s;
-    
-    background: rgb(46,68,126);
-background: radial-gradient(circle, rgba(46,68,126,0.1923144257703081) 22%, rgba(104,87,238,0.6432948179271709) 49%, rgba(28,247,247,1) 72%);
+
+
+    background: radial-gradient(circle, rgba(46, 68, 126, 0.1923144257703081) 22%, rgba(104, 87, 238, 0.6432948179271709) 49%, rgba(28, 247, 247, 1) 72%);
 }
 
-.bubble:nth-child(2){
+.bubble:nth-child(2) {
     width: 30px;
     height: 30px;
     left: 20%;
     animation-duration: 5s;
     animation-delay: 3s;
-    background: rgb(46,68,126);
-background: radial-gradient(circle, rgba(46,68,126,0) 27%, rgba(236,231,95,0.8589810924369747) 65%);
+
+    background: radial-gradient(circle, rgba(46, 68, 126, 0) 27%, rgba(236, 231, 95, 0.8589810924369747) 65%);
 }
 
-.bubble:nth-child(3){
+.bubble:nth-child(3) {
     width: 60px;
     height: 60px;
     left: 30%;
     animation-duration: 7s;
     animation-delay: 2s;
-    background: rgb(46,68,126);
-    background: radial-gradient(circle, rgba(46,68,126,0) 27%, rgba(236,95,232,0.8589810924369747) 65%);
+
+    background: radial-gradient(circle, rgba(46, 68, 126, 0) 27%, rgba(236, 95, 232, 0.8589810924369747) 65%);
 }
 
-.bubble:nth-child(4){
+.bubble:nth-child(4) {
     width: 40px;
     height: 40px;
     left: 40%;
     animation-duration: 8s;
     animation-delay: 1.5s;
     opacity: 0.5;
-    background: rgb(46,68,126);
-background: radial-gradient(circle, rgba(46,68,126,0) 27%, rgba(221,95,236,0.8589810924369747) 65%);
-    
-    
+
+    background: radial-gradient(circle, rgba(46, 68, 126, 0) 27%, rgba(221, 95, 236, 0.8589810924369747) 65%);
+
+
 }
 
-.bubble:nth-child(5){
+.bubble:nth-child(5) {
     width: 80px;
     height: 80px;
     left: 50%;
     animation-duration: 5s;
     animation-delay: 3s;
     opacity: 0.5;
-    background: rgb(46,68,126);
-background: radial-gradient(circle, rgba(46,68,126,0) 27%, rgba(118,236,95,0.8589810924369747) 65%);
-    
+
+    background: radial-gradient(circle, rgba(46, 68, 126, 0) 27%, rgba(118, 236, 95, 0.8589810924369747) 65%);
+
 }
 
-.bubble:nth-child(6){
+.bubble:nth-child(6) {
     width: 70px;
     height: 70px;
     left: 60%;
     animation-duration: 5s;
     animation-delay: 1.5s;
     opacity: 0.5;
-    background: rgb(46,68,126);
-background: radial-gradient(circle, rgba(46,68,126,0) 27%, rgba(238,136,87,0.8589810924369747) 81%);
-    
+
+    background: radial-gradient(circle, rgba(46, 68, 126, 0) 27%, rgba(238, 136, 87, 0.8589810924369747) 81%);
+
 }
 
-.bubble:nth-child(7){
+.bubble:nth-child(7) {
     width: 30px;
     height: 30px;
     left: 70%;
     animation-duration: 4s;
     animation-delay: 3s;
     opacity: 0.5;
-    background: rgb(46,68,126);
-background: radial-gradient(circle, rgba(46,68,126,0) 27%, rgba(229,236,95,0.8589810924369747) 74%);
-    
+
+    background: radial-gradient(circle, rgba(46, 68, 126, 0) 27%, rgba(229, 236, 95, 0.8589810924369747) 74%);
+
 }
 
-.bubble:nth-child(8){
+.bubble:nth-child(8) {
     width: 70px;
     height: 80px;
     left: 80%;
     animation-duration: 5s;
     animation-delay: 2s;
-    
-    background: rgb(46,68,126);
-background: radial-gradient(circle, rgba(46,68,126,0) 27%, rgba(95,236,115,0.8589810924369747) 65%);
-    
+
+
+    background: radial-gradient(circle, rgba(46, 68, 126, 0) 27%, rgba(95, 236, 115, 0.8589810924369747) 65%);
+
 }
 
-.bubble:nth-child(9){
+.bubble:nth-child(9) {
     width: 40px;
     height: 40px;
     left: 90%;
     animation-duration: 7s;
     animation-delay: 1s;
     opacity: 0.5;
-    background: rgb(46,68,126);
-background: radial-gradient(circle, rgba(46,68,126,0) 27%, rgba(95,111,236,0.8589810924369747) 65%);
-    
+
+    background: radial-gradient(circle, rgba(46, 68, 126, 0) 27%, rgba(95, 111, 236, 0.8589810924369747) 65%);
+
 }
 
 
 
 
 @keyframes flying {
-    0%{
+    0% {
         bottom: -100px;
-        transform: translateX(0);
+        transform: translateX(0) scale(3);
     }
 
-    
+    25% {
 
-    100%{
+        transform: translateX(25px) scale(4);
+    }
+
+    50% {
+
+        transform: translateX(50px)scale(4);
+    }
+
+    75% {
+
+        transform: translateX(100px) scale(2);
+    }
+
+
+    100% {
         bottom: 1080px;
-        transform: translateX(0);
+        transform: translateX(0) scaleZ(2);
     }
 }
 
 
+.bubbles .bubble:hover {
 
+    background-color: white;
+
+
+}
