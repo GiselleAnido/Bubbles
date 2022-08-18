@@ -45,7 +45,7 @@ body {
     height: 70px;
     left: 10%;
     animation-duration: 6s;
-    animation-delay: 2s;
+    animation-delay: 1s;
 
 
     background: radial-gradient(circle, rgba(46, 68, 126, 0.1923144257703081) 22%, rgba(104, 87, 238, 0.6432948179271709) 49%, rgba(28, 247, 247, 1) 72%);
@@ -56,7 +56,7 @@ body {
     height: 30px;
     left: 20%;
     animation-duration: 5s;
-    animation-delay: 3s;
+    animation-delay: 2s;
 
     background: radial-gradient(circle, rgba(46, 68, 126, 0) 27%, rgba(236, 231, 95, 0.8589810924369747) 65%);
 }
@@ -66,7 +66,7 @@ body {
     height: 60px;
     left: 30%;
     animation-duration: 7s;
-    animation-delay: 2s;
+    animation-delay: 1s;
 
     background: radial-gradient(circle, rgba(46, 68, 126, 0) 27%, rgba(236, 95, 232, 0.8589810924369747) 65%);
 }
@@ -76,7 +76,7 @@ body {
     height: 40px;
     left: 40%;
     animation-duration: 8s;
-    animation-delay: 1.5s;
+    animation-delay: 0.5s;
     opacity: 0.5;
 
     background: radial-gradient(circle, rgba(46, 68, 126, 0) 27%, rgba(221, 95, 236, 0.8589810924369747) 65%);
@@ -89,7 +89,7 @@ body {
     height: 80px;
     left: 50%;
     animation-duration: 5s;
-    animation-delay: 3s;
+    animation-delay: 2s;
     opacity: 0.5;
 
     background: radial-gradient(circle, rgba(46, 68, 126, 0) 27%, rgba(118, 236, 95, 0.8589810924369747) 65%);
@@ -101,7 +101,7 @@ body {
     height: 70px;
     left: 60%;
     animation-duration: 5s;
-    animation-delay: 1.5s;
+    animation-delay: 0.5s;
     opacity: 0.5;
 
     background: radial-gradient(circle, rgba(46, 68, 126, 0) 27%, rgba(238, 136, 87, 0.8589810924369747) 81%);
@@ -113,7 +113,7 @@ body {
     height: 30px;
     left: 70%;
     animation-duration: 4s;
-    animation-delay: 3s;
+    animation-delay: 2s;
     opacity: 0.5;
 
     background: radial-gradient(circle, rgba(46, 68, 126, 0) 27%, rgba(229, 236, 95, 0.8589810924369747) 74%);
@@ -125,7 +125,7 @@ body {
     height: 80px;
     left: 80%;
     animation-duration: 5s;
-    animation-delay: 2s;
+    animation-delay: 1s;
 
 
     background: radial-gradient(circle, rgba(46, 68, 126, 0) 27%, rgba(95, 236, 115, 0.8589810924369747) 65%);
@@ -137,7 +137,7 @@ body {
     height: 40px;
     left: 90%;
     animation-duration: 7s;
-    animation-delay: 1s;
+    animation-delay: 0.1s;
     opacity: 0.5;
 
     background: radial-gradient(circle, rgba(46, 68, 126, 0) 27%, rgba(95, 111, 236, 0.8589810924369747) 65%);
